@@ -1,19 +1,18 @@
-pip==19.2.3
-bump2version==0.5.11
-wheel==0.33.6
-watchdog==0.9.0
-flake8==3.7.8
-tox==3.14.0
-coverage==4.5.4
-mkdocs-material==6.0.2
-mkdocstrings==0.13.6
-twine==1.14.0
+bump2version
+wheel
+watchdog
+flake8
+tox
+coverage
+mkdocs-material
+mkdocstrings
+twine
 
-pytest==4.6.5
-pytest-runner==5.1
+pytest
+pytest-runner
 
-numpy==1.16.*
-requests==2.18.*
-mxnet==1.6.0
-gluonts==0.5.2
-xlrd==1.2.0
+numpy
+requests
+mxnet
+gluonts
+xlrd
