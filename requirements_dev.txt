@@ -13,6 +13,5 @@ pytest-runner
 
 numpy
 requests
-mxnet
 xlrd
 scipy
